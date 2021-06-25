@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main()
+{
+	char n[1000];
+	printf("\nEnter very large number : ");
+	scanf("%s",n);
+	printf("\nThe number : %s",n);
+	return 0;
+	
+	
+}
